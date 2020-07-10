@@ -1,2 +1,0 @@
-# XOwar
-A game app
